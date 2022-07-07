@@ -3,7 +3,7 @@ Let's hangout is a real-time video chat web application
 Performed authentication and enabled video chat features
 Implemented multiple features like group chat,private chat,screensharing capability for better UI
 
-Deployed at : https://letshangout.netlify.app/create
+Deployed at : https://letshangout.netlify.app/
 
 Landing Page: Give a name to your meeting ,generate link and share among the team members for video conference.
 
