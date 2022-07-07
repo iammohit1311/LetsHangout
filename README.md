@@ -1,4 +1,4 @@
-Let's hangout is real-time video chat web application
+Let's hangout is a real-time video chat web application
 
 Performed authentication and enabled video chat features
 Implemented multiple features like group chat,private chat,screensharing capability for better UI
